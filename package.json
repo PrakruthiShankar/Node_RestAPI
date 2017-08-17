@@ -1,0 +1,22 @@
+{
+  "name": "node_restapi",
+  "version": "1.0.0",
+  "description": "Building REST API using NodeJS, EXPRESSJS and mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrakruthiShankar/Node_RestAPI.git"
+  },
+  "author": "Prakruthi Shankar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrakruthiShankar/Node_RestAPI/issues"
+  },
+  "homepage": "https://github.com/PrakruthiShankar/Node_RestAPI#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
